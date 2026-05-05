@@ -11,6 +11,7 @@ body {
 
 .container {
   display: flex;
+  height:100vh
  
 }
 .left {
@@ -18,7 +19,6 @@ body {
  
   background-color: rgb(236, 236, 143);
   flex-basis: 50%;
-  height: 100vh;
   justify-content: center;
   align-items: center;
 }
