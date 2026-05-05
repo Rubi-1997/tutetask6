@@ -6,5 +6,9 @@
      * Having image of laundry
    * div (right section)
      * Form section
+
+### Run on browser
+ * using "copy path of index.html" file
+
    
      
